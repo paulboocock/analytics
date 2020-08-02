@@ -353,6 +353,11 @@ var tools = [
     'image': 'smbstreams.svg'
   },
   {
+    name: 'snowplow',
+    image: 'snowplow.svg',
+    url: 'https://getanalytics.io/plugins/snowplow/'
+  },
+  {
     'name': 'split',
     'image': 'split.svg'
   },
